@@ -1,0 +1,14 @@
+.card-img-top {
+  height: 200px;
+  object-fit: contain;
+  padding: 15px;
+}
+
+#detailImage {
+  height: 250px;
+  object-fit: contain;
+}
+
+.card-title {
+  font-size: 18px;
+}
